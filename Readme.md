@@ -15,7 +15,7 @@ You can also tweak the delay time before the launcher launcher PE itself, and wh
 * Select a startup area to add this launcher to from the dropdown menu and click the Add button. You can also choose whether or not you want the launcher invisible while it runs.
 * From that point on, forget about it as it launches PE for you automatically whenever you start up Windows. If you need/want to change anything with it later, manually run it again.
 
-# Tip: #
+## Tip: ##
 For best results, choose the "AutoRun" and "Hidden" options before you click the Add button.
 
 ## Download ##
