@@ -19,10 +19,10 @@ You can also tweak the delay time before the launcher launches PE itself, and wh
 For best results, choose the "AutoRun" and "Hidden" options before you click the Add button.
 
 ## Download ##
-If you don't want to download the source code and compile it yourself, you can download the compiled Launcher here:
+If you don't want to download the source code and compile it yourself, you can download the compiled Launcher from the releases area:
 
 PhraseExpander-Launcher.zip
-http://www19.zippyshare.com/v/67995488/file.html
+https://github.com/STaRDoGG/PhraseExpander-Launcher/releases
 
 ## ToDo ##
 * Note that this is the first release and is considered Beta software.
